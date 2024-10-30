@@ -1,4 +1,4 @@
-
+//nota: puse \ como i directamente en la variable que contiene a cifrado porque no me dejo con '\\'
 let cifrado = '^[()`~^*/?`[()^+`-~()#[$()/~()%i[]()}+[()[{=~¿()=$?%?!?]¡~()¿()`¬^~()[{=~()?+^[]=?()^i{()*~¡[$[{()¡[()?=[]`i¬]()¿()[{;+[$__~()`~]=i]+~'
 const caracteres = {
     '?': 'a',
